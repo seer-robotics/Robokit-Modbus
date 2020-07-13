@@ -1,4 +1,4 @@
-Seer Robotics Robokit ModbusTCP 测试工具
+Robokit ModbusTCP 测试工具
 ===
 
 #### 使用方法
@@ -11,4 +11,4 @@ Seer Robotics Robokit ModbusTCP 测试工具
 1. version 文件指示当前工具的版本号
 2. ModbusPollSetup64Bit.exe 为 ModbusPoll 的安装包
 3. 请自行解决 ModbusPoll 的注册激活问题
-4. Seer Robotics 对本工具保留所有解释权
+4. SEER 对本工具保留所有解释权
